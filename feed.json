@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Gạch Bông Ốp Nhà Tắm",
     "description": "",
-    "home_page_url": "https://gach-bong-op-nha-tam.pages.dev",
-    "feed_url": "https://gach-bong-op-nha-tam.pages.dev/feed.json",
+    "home_page_url": "https://hang-rao-bong-gio.pages.dev",
+    "feed_url": "https://hang-rao-bong-gio.pages.dev/feed.json",
     "user_comment": "",
     "author": {
         "name": "Gạch Bông CTS"
     },
     "items": [
         {
-            "id": "https://gach-bong-op-nha-tam.pages.dev/qruq.html",
-            "url": "https://gach-bong-op-nha-tam.pages.dev/qruq.html",
+            "id": "https://hang-rao-bong-gio.pages.dev/qruq.html",
+            "url": "https://hang-rao-bong-gio.pages.dev/qruq.html",
             "title": "qrửq",
             "summary": "qrrqửq qửq rqử qử",
             "content_html": "<p>qrrqửq qửq rqử qử</p>",
@@ -24,8 +24,8 @@
             "date_modified": "2024-05-05T17:40:36+07:00"
         },
         {
-            "id": "https://gach-bong-op-nha-tam.pages.dev/sa.html",
-            "url": "https://gach-bong-op-nha-tam.pages.dev/sa.html",
+            "id": "https://hang-rao-bong-gio.pages.dev/sa.html",
+            "url": "https://hang-rao-bong-gio.pages.dev/sa.html",
             "title": "sa",
             "summary": "ád",
             "content_html": "<p>ád</p>",
